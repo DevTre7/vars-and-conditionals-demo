@@ -4,22 +4,3 @@
 */
 
 
-let jonSnowAttack = 25;
-let jamieLanniesterAttack = 35;
-
-if(jonSnowAttack > jamieLanniesterAttack)
-{
-    console.log("Jon Snow has a  better attack than Jamie Lannister");
-}
-else if (jamieLanniesterAttack > jonSnowAttack)
-{
-    console.log("Jamie Lannister has a better attack than Jon Snow");
-} 
-else
-{
-    console.log("It's a tie");
-}
-//This following line of code is just a test:
-console.log("Hello World");
-
-
