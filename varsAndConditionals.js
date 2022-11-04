@@ -43,3 +43,10 @@ if(jonSnowHealth > 50)
 }
 //This following line of code is just a test:
 console.log("Hello World");
+
+let backpack = [];
+
+//let add sword, shield, food
+
+backpack.push("sword","shield", "food"); 
+console
